@@ -250,6 +250,14 @@ a:focus {
   text-decoration: none;
 }
 
+.super {
+  cursor: pointer;
+}
+
+.anchor {
+  color: var(--color-text)
+}
+
 /* Custom classes */
 
 .global-wrapper {
@@ -399,6 +407,17 @@ a:focus {
 pre {
   background: black;
 }
+
+.footnotes {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+
+.footnotes p {
+  font-size: 14px;
+}
+
 
 /* Media queries */
 
