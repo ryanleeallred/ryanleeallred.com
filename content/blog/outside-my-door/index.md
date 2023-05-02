@@ -1,12 +1,11 @@
 ---
 title: "We should be Marveling"
 date: "2023-05-01"
-description: "I'm going to learn about whatever catches my eye and relay the interesting bits about what I learn here on this site."
+description: "I am insanely curious and I want to inspire others to become more curious and then to marvel at what they learn because it makes life so much more fascinating. Join me on my journey, and let’s marvel together."
 tags: ["Marvelings"]
 ---
 
 >"When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things." -Steve Jobs
-
 
 I am a person who likes to look for connections. I’ve done it all my life. Wherever I'm at, I like to pause, look around, pick out individual items, and then ask myself, “Okay, what do I really know about that thing?” And often, I know nothing at all. 
 
