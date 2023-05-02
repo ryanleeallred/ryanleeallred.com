@@ -1,18 +1,23 @@
 ---
-title: "Outside My Door"
-date: "2023-04-01"
+title: "We should be Marveling"
+date: "2023-05-01"
 description: "I'm going to learn about whatever catches my eye and relay the interesting bits about what I learn here on this site."
-tags: ["Outside My Door"]
+tags: ["Marvellings"]
 ---
 
-How many telephone poles do you think you've looked at in your lifetime? I haven't counted, but I've looked at a lot –almost always withing meaning to or even noticing. I have absolutely no expertise in the area but I've always been uncomfortable with how I've allowed such a pervasive protrusions to surround me at all times without a second thought. I'm troubled by how little I know about them. Sometimes I feel like don't know anything about anything.
+>"When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things." -Steve Jobs
 
-Look around yourself right now. What do you know about the things that surround you?
 
-All I really know is what my eyes can see in this moment. I don't really know how anything around me came to be or why it is. I take for granted how complex and interdependent our modern world has become. I feel ungrateful for the human and economic surpluses I unknowingly benefit from.
+I am a person who likes to look for connections. I’ve done it all my life. Wherever I'm at, I like to pause, look around, pick out individual items, and then ask myself, “Okay, what do I really know about that thing?” And often, I know nothing at all. 
 
-I want to learn more about everything. I want to indulge my curiosity about why things are the way that they are -and perhaps, make them better. That's what this site is for, I'm going to write about what I learn.
+It becomes a game to learn something fascinating about an object everyone else is ignoring: telephone poles, the red fiberglass cast on the arm of that woman going into the restaurant, a traffic camera thirty feet up on the top of a light pole, two trees side-by-side in the spring weather but one is in full bloom and the other hasn’t even budded yet. 
 
-I'm calling this "Outside My Door" because things out in the big wide world intrigue me the most. Even the simplest things like doormats -which happen to be _immediately_ outside my door, but really I'm going to learn about and write about anything that I want.
+I think we should be marveling at things like this more than we are. I want to teach people to marvel more at the stuff that surrounds them. In the United States, where I live and where we have such a high standard of living, we have grown complacent and entitled. We feel we “deserve” access to the innovations that surround us, and I don’t know that we do. 
 
-I hope I can relay what I learn in interesting ways. Thanks for reading.
+I think people need to appreciate more how things came to be, why they are the way that they are, how hard our predecessors worked to give us what we enjoy now, and that it didn't happen by accident. If we first seek to understand, we will then be able to *improve* what we see and touch and interact with every day. This new information that we will acquire won’t just be interesting factoids that litter our brains. Eventually, the things we know and understand will cross-pollinate and help us craft innovations that will improve the world for later generations.
+
+I want to get better at this, and I want to share what I'm learning with *you*. It is the reason I pursued a career in Data Science and teaching. I am insanely curious and I want to inspire others to become more curious and then to marvel at what they learn because it makes life so much more fascinating. Join me on my journey, and let’s marvel together.
+
+I'm not a Steve Jobs fanboy or anything, but this is also a must-see clip if you haven't come across it already: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kYfNvmF0Bqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

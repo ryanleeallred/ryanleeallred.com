@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `RyanAllred.ai`,
+    title: `RyanLeeAllred.com`,
     author: {
       name: `Ryan Allred`,
-      summary: `Data Science instructor @BloomTech`,
+      summary: ``,
     },
     description: `.`,
-    siteUrl: `https://ryanallred.ai/`,
+    siteUrl: `https://ryanleeallred.com/`,
     social: {
-      twitter: `datascienceryan`,
+      twitter: `ryanallred`,
     },
   },
   plugins: [

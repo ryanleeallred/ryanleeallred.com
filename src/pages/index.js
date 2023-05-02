@@ -49,14 +49,14 @@ const BlogIndex = ({ data, location }) => {
                       {post.frontmatter.tags.map(tag => {
                         let tag_color = ""
                         switch (tag) {
-                          case "Outside My Door":
+                          case "Marvellings":
                             tag_color = "#308ee2"
                             break
                           case "Code Challenge":
                             tag_color = "#FFA116"
                             break
                           default:
-                            tag_color = "#7B58FE"
+                            tag_color = "#0b6799"
                         }
                         return (
                           <li
