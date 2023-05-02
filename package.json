@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "ryanleeallred.com",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Ryan Allred's blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Ryan Allred",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
