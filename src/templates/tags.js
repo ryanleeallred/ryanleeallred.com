@@ -10,7 +10,7 @@ const Tags = ({ pageContext, data, location }) => {
   if (posts) {
     let tag_color = ""
     switch (tagName) {
-      case "Marvellings":
+      case "Marvelings":
         tag_color = "#308ee2"
         break
       case "Code Challenge":

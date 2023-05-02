@@ -17,7 +17,7 @@ const AllTags = ({ pageContext, data, location }) => {
             console.log(tag)
             let tag_color = ""
             switch (tag) {
-              case "Marvellings":
+              case "Marvelings":
                 tag_color = "#308ee2"
                 break
               case "Code Challenge":
