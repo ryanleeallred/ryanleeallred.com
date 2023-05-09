@@ -1,7 +1,7 @@
 ---
 title: "Historic Lime Kilns –In Plain Sight"
 date: "2023-05-08"
-description: ""
+description: "These lime kilns played a big role in the early settlers’ ability to forge a new way of life out of the wilderness that they landed in."
 tags: ["Marvelings"]
 ---
 
